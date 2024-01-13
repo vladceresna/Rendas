@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/chatinfo"
+        android:title="Каналы и информация"
+        android:contentDescription="Каналы и информация"
+        android:icon="@drawable/ic_baseline_view_headline_24"
+        app:showAsAction="always" />
+
+</menu>
